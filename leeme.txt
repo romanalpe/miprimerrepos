@@ -1,0 +1,2 @@
+Bienvenido a mi primer repositorio Git
+Todo el código aquí presente es de libre uso y distribución
