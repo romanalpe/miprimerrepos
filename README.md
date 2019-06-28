@@ -1,2 +1,2 @@
 # miprimerrepos
-Buenos días. por decir algo.
+Buenos días, por decir algo.
